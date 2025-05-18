@@ -1,0 +1,106 @@
+---
+title: "MBA Portfolio: Karma Galley"
+author: "Karma Galley"
+date: last-modified        
+format:
+  html:
+    toc: true              
+---
+
+# About Me
+![](images/headshot.jpg){width="150" style="float:right; margin-left:1rem; border-radius:8px;"}
+
+I am currently pursuing an **MBA (2024 – 2025) at University Canada West** with a background that bridges accounting and large-scale construction supervision.  
+Over 11 years I have managed corporate ledgers, payroll, and compliance as an *Accountant*, and later led rural road-building projects as a *Construction Supervisor*.  
+This dual experience gives me a unique perspective on budgeting, operations, and field execution.  
+I’m passionate about using data-driven insights and emerging technologies—especially **Generative AI and digital marketing**—to deliver projects that improve lives in underserved communities.
+
+---
+
+## Education
+- **Master of Business Administration (MBA)** — *University Canada West, Vancouver*  
+  *In progress, expected 2025*
+- **Bachelor of Commerce (B.Com)** — *North Bengal University, India* (2007)
+
+---
+
+## Professional Experience
+
+### Construction Supervisor — Tsamgar Construction Pvt. Ltd. (2016 – 2022)
+- Oversaw rural road construction projects in remote regions of Bhutan  
+- Coordinated site logistics, procurement, and labor teams of up to 60 staff  
+- Enforced safety and quality standards, delivering projects on schedule and within budget
+
+### Accountant — Powda Financial Services, Bhutan (2010 – 2015)
+- Managed bookkeeping, payroll, and monthly financial reporting  
+- Prepared financial statements and maintained the general ledger  
+- Supported external audits and produced budget forecasts that reduced variance by 8 %
+
+---
+
+## Certifications
+
+
+:::{=html}
+<ul class="cert-list list-unstyled">
+
+<li>
+  <a href="#" class="cert-link"
+     data-bs-toggle="modal" data-bs-target="#modalGenAI">
+     Career Essentials in Generative AI — Microsoft × LinkedIn Learning
+     <span class="view-label">View certificate</span>
+  </a>
+</li>
+
+<li class="mt-2">
+  <a href="#" class="cert-link"
+     data-bs-toggle="modal" data-bs-target="#modalDMI">
+     Certified Digital Marketing Associate — DMI × AMA
+     <span class="view-label">View certificate</span>
+  </a>
+</li>
+
+</ul>
+
+<!-- Modal 1 – Generative AI -->
+<div class="modal fade" id="modalGenAI" tabindex="-1" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered modal-lg">
+<div class="modal-content">
+<div class="modal-body p-0">
+<button type="button" class="btn-close position-absolute end-0 m-2"
+        data-bs-dismiss="modal" aria-label="Close"></button>
+<img src="images/cert-generative-ai.png" class="img-fluid"
+     alt="Full Generative AI certificate">
+</div>
+</div>
+</div>
+</div>
+
+<!-- Modal 2 – Digital Marketing -->
+<div class="modal fade" id="modalDMI" tabindex="-1" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered modal-lg">
+<div class="modal-content">
+<div class="modal-body p-0">
+<button type="button" class="btn-close position-absolute end-0 m-2"
+        data-bs-dismiss="modal" aria-label="Close"></button>
+<img src="images/cert-dmi.png" class="img-fluid"
+     alt="Full Digital Marketing certificate">
+</div>
+</div>
+</div>
+</div>
+:::
+
+---
+
+## Skills
+- Financial Accounting & Reporting • Budgeting & Procurement  
+- Project Supervision & Team Leadership  
+- Generative AI fundamentals • Digital Marketing strategy  
+- MS Excel, Tally, QuickBooks • Communication & Stakeholder Management  
+
+---
+
+## Contact
+- ✉️ [karma.galley5360@myucwest](mailto:karma.galley5360@myucwest)  
+- ☎️ +1 672-699-9188  
