@@ -14,10 +14,7 @@ website:
         href: skills.html
       - text: "Contact"
         href: contact.html
-      - text: "Planning"
-        href: planning.html
-      - text: "LLM Draft"
-        href: llm-draft.html
+
 
     right:
       - text: "Reflection (PDF)"
