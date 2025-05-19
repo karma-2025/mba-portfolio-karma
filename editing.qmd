@@ -1,0 +1,21 @@
+---
+title: "Personalization & Editing Notes"
+format:
+  html: default
+---
+
+# From LLM Draft to Final Copy  
+
+| Section | LLM Text Kept | Revisions | Why |
+|---------|---------------|-----------|-----|
+| Headings & Order | ✔ | — | Matches rubric |
+| About Me para | ✖ (rewrote) | Added impact focus & specific roles | Authentic voice |
+| Experience bullets | ✚ company names, metrics | Accuracy & quantification |
+| Skills list | Condensed & grouped | Readability |
+| Volunteer section | Removed | Not applicable |
+
+## Editing Principles  
+
+1. Fact-check every number.  
+2. Prefer active verbs.  
+3. Keep paragraphs ≤80 words for web readability.

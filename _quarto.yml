@@ -1,15 +1,34 @@
 project:
   type: website
-  output-dir: docs        
+  output-dir: docs
 
 website:
   title: "MBA Portfolio: Karma Galley"
-  repo-url: "https://github.com/<USERNAME>/mba-portfolio-karma"
+  navbar:
+    left:
+      - text: "Portfolio"
+        href: index.html
+      - text: "Certificates"
+        href: certificates.html
+      - text: "Skills"
+        href: skills.html
+      - text: "Contact"
+        href: contact.html
+      - text: "Planning"
+        href: planning.html
+      - text: "LLM Draft"
+        href: llm-draft.html
+
+    right:
+      - text: "Reflection (PDF)"
+        href: reflection.pdf
+      - text: "Appendix (PDF)"
+        href: appendix.pdf
   page-navigation: false
-            
 
 format:
   html:
-    theme: cosmo          
-    css: styles.css      
-    toc: true            
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-after-body: scripts.html

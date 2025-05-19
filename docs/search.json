@@ -1,17 +1,52 @@
 [
   {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills — Detailed Matrix",
+    "section": "",
+    "text": "Skills Matrix\n\n\n\n\n\n\n\n\n\nCategory\nTools / Methods\nProficiency\nEvidence\n\n\n\n\nAccounting & Finance\nQuickBooks, Tally, Excel\nExpert\n5 yrs Accountant\n\n\nProject Management\nGantt, procurement\nAdvanced\n6 yrs Supervisor\n\n\nGenerative AI\nPrompt design, ethics\nIntermediate\nMicrosoft × LinkedIn cert\n\n\nDigital Marketing\nSEO basics, Google Ads\nIntermediate\nDMI Associate cert\n\n\nLeadership\nTeam training, reporting\nAdvanced\nLed 60-person crews"
+  },
+  {
+    "objectID": "planning.html",
+    "href": "planning.html",
+    "title": "Planning & Research",
+    "section": "",
+    "text": "Objective\nTo build a clear, multi-page MBA portfolio that showcases my background, highlights key certifications, and guides a recruiter smoothly from overview to detail.\n\n\n\n\nSection Structure\nRecruiters scan in this order:\n\nAbout Me → Education → Experience → Certifications → Skills → Contact\nSticking to that order makes the site intuitive.\n\nDesign & Accessibility\n\nSingle-column layout on mobile, two-column on desktop\n\nHigh contrast (dark text on white) for readability\n\nAlt text on all images for screen-readers\n\nInteractive Elements\nRather than static lists, I chose interactive modals (for certificates) to keep the main pages focused and uncluttered.\n\n\n\n\n\n\nMBA (2024–2025) at University Canada West—ongoing\n\n11 years bridging Accounting (financial reporting, auditing) and Construction Supervision (rural road projects)\n\nCertifications in Generative AI (Microsoft × LinkedIn) & Digital Marketing (DMI × AMA)\n\nCore strengths: budgeting, team leadership, data-driven decision making\n\n\n\n\n\n\nQuarto for Markdown → HTML and multi-page site\n\nBootstrap “cosmo” theme with light custom CSS\n\nGit + GitHub Pages for version control and deployment\n\nChatGPT-4o for initial brainstorming (raw output in LLM Draft page)\n\nThis plan ensured each assignment requirement maps to a clear page or section, and that I could track my process end-to-end."
+  },
+  {
+    "objectID": "planning.html#key-insights-from-research",
+    "href": "planning.html#key-insights-from-research",
+    "title": "Planning & Research",
+    "section": "",
+    "text": "Section Structure\nRecruiters scan in this order:\n\nAbout Me → Education → Experience → Certifications → Skills → Contact\nSticking to that order makes the site intuitive.\n\nDesign & Accessibility\n\nSingle-column layout on mobile, two-column on desktop\n\nHigh contrast (dark text on white) for readability\n\nAlt text on all images for screen-readers\n\nInteractive Elements\nRather than static lists, I chose interactive modals (for certificates) to keep the main pages focused and uncluttered."
+  },
+  {
+    "objectID": "planning.html#my-unique-content-to-showcase",
+    "href": "planning.html#my-unique-content-to-showcase",
+    "title": "Planning & Research",
+    "section": "",
+    "text": "MBA (2024–2025) at University Canada West—ongoing\n\n11 years bridging Accounting (financial reporting, auditing) and Construction Supervision (rural road projects)\n\nCertifications in Generative AI (Microsoft × LinkedIn) & Digital Marketing (DMI × AMA)\n\nCore strengths: budgeting, team leadership, data-driven decision making"
+  },
+  {
+    "objectID": "planning.html#technology-workflow",
+    "href": "planning.html#technology-workflow",
+    "title": "Planning & Research",
+    "section": "",
+    "text": "Quarto for Markdown → HTML and multi-page site\n\nBootstrap “cosmo” theme with light custom CSS\n\nGit + GitHub Pages for version control and deployment\n\nChatGPT-4o for initial brainstorming (raw output in LLM Draft page)\n\nThis plan ensured each assignment requirement maps to a clear page or section, and that I could track my process end-to-end."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "MBA Portfolio: Karma Galley",
     "section": "",
-    "text": "I am currently pursuing an MBA (2024 – 2025) at University Canada West with a background that bridges accounting and large-scale construction supervision.\nOver 11 years I have managed corporate ledgers, payroll, and compliance as an Accountant, and later led rural road-building projects as a Construction Supervisor.\nThis dual experience gives me a unique perspective on budgeting, operations, and field execution.\nI’m passionate about using data-driven insights and emerging technologies—especially Generative AI and digital marketing—to deliver projects that improve lives in underserved communities.\n\n\n\n\nMaster of Business Administration (MBA) — University Canada West, Vancouver\nIn progress, expected 2025\nBachelor of Commerce (B.Com) — North Bengal University, India (2007)\n\n\n\n\n\n\n\n\nOversaw rural road construction projects in remote regions of Bhutan\n\nCoordinated site logistics, procurement, and labor teams of up to 60 staff\n\nEnforced safety and quality standards, delivering projects on schedule and within budget\n\n\n\n\n\nManaged bookkeeping, payroll, and monthly financial reporting\n\nPrepared financial statements and maintained the general ledger\n\nSupported external audits and produced budget forecasts that reduced variance by 8 %\n\n\n\n\n\n\n\n\n\n Career Essentials in Generative AI — Microsoft × LinkedIn Learning View certificate \n\n\n Certified Digital Marketing Associate — DMI × AMA View certificate \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinancial Accounting & Reporting • Budgeting & Procurement\n\nProject Supervision & Team Leadership\n\nGenerative AI fundamentals • Digital Marketing strategy\n\nMS Excel, Tally, QuickBooks • Communication & Stakeholder Management\n\n\n\n\n\n\n✉️ karma.galley5360@myucwest\n\n☎️ +1 672-699-9188"
+    "text": "I am currently pursuing an MBA (2024 – 2025) at University Canada West with a background that bridges accounting and large-scale construction supervision.\nOver 11 years I have managed corporate ledgers, payroll, and compliance as an Accountant, and later led rural road-building projects as a Construction Supervisor.\nThis dual experience gives me a unique perspective on budgeting, operations, and field execution.\nI’m passionate about using data-driven insights and emerging technologies—especially Generative AI and digital marketing—to deliver projects that improve lives in underserved communities.\n\n\n\n\nMBA — University Canada West (in progress, expected 2025)\n\nB.Com — North Bengal University, India (2007)\n\n\n\n\n\n\n\n\nOversaw rural road construction projects in remote regions of Bhutan\n\nCoordinated site logistics, procurement, and labor teams of up to 60 staff\n\nEnforced safety and quality standards, delivering projects on schedule and within budget\n\n\n\n\n\nManaged bookkeeping, payroll, and monthly financial reporting\n\nPrepared financial statements and maintained the general ledger\n\nSupported external audits and produced budget forecasts that reduced variance by 8 %\n\n\n\n\n\n\n\n\n\n Career Essentials in Generative AI — Microsoft × LinkedIn Learning View certificate \n\n\n Certified Digital Marketing Associate — DMI × AMA View certificate \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinancial Accounting • Budgeting & Forecasting • Project Management • Generative AI Basics • Digital Marketing • Team Leadership • Stakeholder Communication\n\n\n\n\n\n✉️ karma.galley5360@myucwest\n\n☎️ +1 672-699-9188\n\n\n Content drafted with assistance from ChatGPT-4o; facts verified and final wording authored by Karma Galley.\nSee Appendix for raw LLM output."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "MBA Portfolio: Karma Galley",
     "section": "",
-    "text": "Master of Business Administration (MBA) — University Canada West, Vancouver\nIn progress, expected 2025\nBachelor of Commerce (B.Com) — North Bengal University, India (2007)"
+    "text": "MBA — University Canada West (in progress, expected 2025)\n\nB.Com — North Bengal University, India (2007)"
   },
   {
     "objectID": "index.html#professional-experience",
@@ -28,17 +63,108 @@
     "text": "Career Essentials in Generative AI — Microsoft × LinkedIn Learning View certificate \n\n\n Certified Digital Marketing Associate — DMI × AMA View certificate"
   },
   {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
+    "objectID": "index.html#skills-overview",
+    "href": "index.html#skills-overview",
     "title": "MBA Portfolio: Karma Galley",
     "section": "",
-    "text": "Financial Accounting & Reporting • Budgeting & Procurement\n\nProject Supervision & Team Leadership\n\nGenerative AI fundamentals • Digital Marketing strategy\n\nMS Excel, Tally, QuickBooks • Communication & Stakeholder Management"
+    "text": "Financial Accounting • Budgeting & Forecasting • Project Management • Generative AI Basics • Digital Marketing • Team Leadership • Stakeholder Communication"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "MBA Portfolio: Karma Galley",
     "section": "",
-    "text": "✉️ karma.galley5360@myucwest\n\n☎️ +1 672-699-9188"
+    "text": "✉️ karma.galley5360@myucwest\n\n☎️ +1 672-699-9188\n\n\n Content drafted with assistance from ChatGPT-4o; facts verified and final wording authored by Karma Galley.\nSee Appendix for raw LLM output."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact & Downloads",
+    "section": "",
+    "text": "Email: karma.galley5360@myucwest\n\nPhone: +1 672-699-9188\n\n\n\n\n\n\n\nFile\nDescription\n\n\n\n\nReflection (PDF)\nProcess write-up\n\n\nAppendix (PDF)\nRaw LLM output & commentary"
+  },
+  {
+    "objectID": "contact.html#downloads",
+    "href": "contact.html#downloads",
+    "title": "Contact & Downloads",
+    "section": "",
+    "text": "File\nDescription\n\n\n\n\nReflection (PDF)\nProcess write-up\n\n\nAppendix (PDF)\nRaw LLM output & commentary"
+  },
+  {
+    "objectID": "certificates.html",
+    "href": "certificates.html",
+    "title": "Certificates",
+    "section": "",
+    "text": "Professional Certificates\nBelow are my certificates in full resolution for quick verification.\n\n\nCareer Essentials in Generative AI\nIssued by Microsoft & LinkedIn Learning, February 2025\n\n\n\n\nCertified Digital Marketing Associate\nIssued by the Digital Marketing Institute & AMA, March 2025"
+  },
+  {
+    "objectID": "editing.html",
+    "href": "editing.html",
+    "title": "Personalization & Editing Notes",
+    "section": "",
+    "text": "Section\nLLM Text Kept\nRevisions\nWhy\n\n\n\n\nHeadings & Order\n✔\n—\nMatches rubric\n\n\nAbout Me para\n✖ (rewrote)\nAdded impact focus & specific roles\nAuthentic voice\n\n\nExperience bullets\n✚ company names, metrics\nAccuracy & quantification\n\n\n\nSkills list\nCondensed & grouped\nReadability\n\n\n\nVolunteer section\nRemoved\nNot applicable\n\n\n\n\n\n\n\nFact-check every number.\n\nPrefer active verbs.\n\nKeep paragraphs ≤80 words for web readability."
+  },
+  {
+    "objectID": "editing.html#editing-principles",
+    "href": "editing.html#editing-principles",
+    "title": "Personalization & Editing Notes",
+    "section": "",
+    "text": "Fact-check every number.\n\nPrefer active verbs.\n\nKeep paragraphs ≤80 words for web readability."
+  },
+  {
+    "objectID": "llm-draft.html",
+    "href": "llm-draft.html",
+    "title": "LLM Draft (Raw Output & Commentary)",
+    "section": "",
+    "text": "Generated with ChatGPT-4o on 10 May 2025 — no manual edits.\n\n\nPrompt I Used\n\n“Create an outline and sample text for a one-page MBA student portfolio that covers About Me, Education, Professional Experience, Certifications, Skills, and Contact.”\n\n\n\n\nRaw LLM Output\n```text ONE-PAGE MBA PORTFOLIO — OUTLINE + SAMPLE TEXT 1 ABOUT ME\nI am an MBA candidate (2024–2025) with cross-functional experience in accounting and infrastructure supervision. My mission is to apply data-driven finance and people-centric leadership to projects that uplift underserved communities.\n2 EDUCATION\n• MBA — University Canada West (in progress, expected 2025)\n• B.Com — North Bengal University, India (2007)\n3 PROFESSIONAL EXPERIENCE\n▸ Construction Supervisor | Tsamgar Construction Pvt. Ltd. (2016–2022)\n▸ Accountant | Powda Financial Services, Bhutan (2010–2015)\n4 CERTIFICATIONS\n• Career Essentials in Generative AI (Microsoft × LinkedIn Learning)\n• Certified Digital Marketing Associate (Digital Marketing Institute × AMA)\n5 KEY SKILLS\nAccounting · Budgeting · Project Coordination · Generative AI Basics · Digital Marketing · MS Excel · QuickBooks · Team Leadership\n6 CONTACT\nkarma.galley5360@myucwest | +1 672-699-9188 | Vancouver, BC, Canada\nOpenAI. (2025). ChatGPT (Version 4o) [Large language model]. https://chat.openai.com/"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on Building My One-Page MBA Portfolio",
+    "section": "",
+    "text": "I reviewed three MBA portfolios (Chen, 2023; Gómez, 2024; Li, 2024)…\n\n\n\nI used ChatGPT-4o (OpenAI, 2025) with the prompt: &gt; “Create an outline and sample text for a one-page MBA student portfolio.” The model produced headings and sample sentences…\n\n\n\n\nAbout Me: rewrote for voice and specificity.\nExperience: added exact dates and metrics.\nSkills: grouped and removed duplicates.\n\n\n\n\nI set up _quarto.yml, customized Bootstrap 5 theme, added small CSS tweaks for modals.\n\n\n\nSite renders to /docs and is hosted via GitHub Pages at: https://&lt;username&gt;.github.io/mba-portfolio-karma/\n\n\n\nBootstrap. (2024). Modals (v5.3 docs). https://getbootstrap.com/docs/5.3/components/modal/\nOpenAI. (2025). ChatGPT-4o [LLM]. https://chat.openai.com/\nPosit PBC. (2025). Quarto docs. https://quarto.org/docs/\nChen, Y. (2023). MBA portfolio. https://yuhan-chen.com/\nGómez, L. (2024). One-page CV. https://luis-gomez.dev/\nLi, X. (2024). Professional profile. https://xinyu-li.me/"
+  },
+  {
+    "objectID": "reflection.html#planning-and-research",
+    "href": "reflection.html#planning-and-research",
+    "title": "Reflection on Building My One-Page MBA Portfolio",
+    "section": "",
+    "text": "I reviewed three MBA portfolios (Chen, 2023; Gómez, 2024; Li, 2024)…"
+  },
+  {
+    "objectID": "reflection.html#llm-assisted-drafting",
+    "href": "reflection.html#llm-assisted-drafting",
+    "title": "Reflection on Building My One-Page MBA Portfolio",
+    "section": "",
+    "text": "I used ChatGPT-4o (OpenAI, 2025) with the prompt: &gt; “Create an outline and sample text for a one-page MBA student portfolio.” The model produced headings and sample sentences…"
+  },
+  {
+    "objectID": "reflection.html#personalization-and-editing",
+    "href": "reflection.html#personalization-and-editing",
+    "title": "Reflection on Building My One-Page MBA Portfolio",
+    "section": "",
+    "text": "About Me: rewrote for voice and specificity.\nExperience: added exact dates and metrics.\nSkills: grouped and removed duplicates."
+  },
+  {
+    "objectID": "reflection.html#building-with-quarto",
+    "href": "reflection.html#building-with-quarto",
+    "title": "Reflection on Building My One-Page MBA Portfolio",
+    "section": "",
+    "text": "I set up _quarto.yml, customized Bootstrap 5 theme, added small CSS tweaks for modals."
+  },
+  {
+    "objectID": "reflection.html#hosting-and-submission",
+    "href": "reflection.html#hosting-and-submission",
+    "title": "Reflection on Building My One-Page MBA Portfolio",
+    "section": "",
+    "text": "Site renders to /docs and is hosted via GitHub Pages at: https://&lt;username&gt;.github.io/mba-portfolio-karma/"
+  },
+  {
+    "objectID": "reflection.html#references",
+    "href": "reflection.html#references",
+    "title": "Reflection on Building My One-Page MBA Portfolio",
+    "section": "",
+    "text": "Bootstrap. (2024). Modals (v5.3 docs). https://getbootstrap.com/docs/5.3/components/modal/\nOpenAI. (2025). ChatGPT-4o [LLM]. https://chat.openai.com/\nPosit PBC. (2025). Quarto docs. https://quarto.org/docs/\nChen, Y. (2023). MBA portfolio. https://yuhan-chen.com/\nGómez, L. (2024). One-page CV. https://luis-gomez.dev/\nLi, X. (2024). Professional profile. https://xinyu-li.me/"
   }
 ]

@@ -1,3 +1,31 @@
+/* ===== General ===== */
+body { line-height: 1.6; }
+
+/* ===== Headshot ===== */
+.headshot { border-radius: 8px; margin-left: 1rem; }
+
+/* ===== Certificate hover & modal ===== */
+.cert-link {
+  position: relative;
+  color: #212529;
+  text-decoration: none;
+  font-weight: 500;
+}
+.cert-link:hover { text-decoration: underline; }
+
+.view-label {
+  display: none;
+  position: absolute;
+  right: -120px;
+  top: 0;
+  background: rgba(0,0,0,0.75);
+  color: #fff;
+  padding: 2px 6px;
+  font-size: 0.75rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+.cert-link:hover .view-label { display: inline-block; }
 /* ---- Certificate hover & modal helper styles ---- */
 .cert-item { cursor: pointer; }
 

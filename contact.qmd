@@ -1,0 +1,19 @@
+---
+title: "Contact & Downloads"
+format:
+  html: default
+---
+
+# Get in Touch
+
+- **Email:** <karma.galley5360@myucwest>  
+- **Phone:** +1 672-699-9188  
+
+---
+
+## Downloads
+
+| File                 | Description                        |
+|----------------------|------------------------------------|
+| [Reflection (PDF)](reflection.pdf){target="_blank"} | Process write-up                 |
+| [Appendix (PDF)](appendix.pdf){target="_blank"}   | Raw LLM output & commentary |

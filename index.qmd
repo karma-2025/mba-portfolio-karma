@@ -1,10 +1,10 @@
 ---
 title: "MBA Portfolio: Karma Galley"
 author: "Karma Galley"
-date: last-modified        
+date: last-modified
 format:
   html:
-    toc: true              
+    toc: true
 ---
 
 # About Me
@@ -18,9 +18,8 @@ I’m passionate about using data-driven insights and emerging technologies—es
 ---
 
 ## Education
-- **Master of Business Administration (MBA)** — *University Canada West, Vancouver*  
-  *In progress, expected 2025*
-- **Bachelor of Commerce (B.Com)** — *North Bengal University, India* (2007)
+- **MBA** — University Canada West *(in progress, expected 2025)*  
+- **B.Com** — North Bengal University, India (2007)
 
 ---
 
@@ -93,14 +92,18 @@ I’m passionate about using data-driven insights and emerging technologies—es
 
 ---
 
-## Skills
-- Financial Accounting & Reporting • Budgeting & Procurement  
-- Project Supervision & Team Leadership  
-- Generative AI fundamentals • Digital Marketing strategy  
-- MS Excel, Tally, QuickBooks • Communication & Stakeholder Management  
+## Skills (overview)
+Financial Accounting • Budgeting & Forecasting • Project Management • Generative AI Basics • Digital Marketing • Team Leadership • Stakeholder Communication
 
 ---
 
 ## Contact
 - ✉️ [karma.galley5360@myucwest](mailto:karma.galley5360@myucwest)  
 - ☎️ +1 672-699-9188  
+
+---
+
+<span style="font-size:0.85rem">
+Content drafted with assistance from ChatGPT-4o; facts verified and final wording authored by Karma Galley.  
+See <a href="appendix.pdf" target="_blank">Appendix</a> for raw LLM output.
+</span>

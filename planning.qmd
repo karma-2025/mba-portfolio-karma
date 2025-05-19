@@ -1,0 +1,47 @@
+---
+title: "Planning & Research"
+format:
+  html: default
+---
+
+# Planning and Research
+
+**Objective**  
+To build a clear, multi-page MBA portfolio that showcases my background, highlights key certifications, and guides a recruiter smoothly from overview to detail.
+
+---
+
+## Key Insights from Research
+
+1. **Section Structure**  
+   Recruiters scan in this order:  
+   - About Me → Education → Experience → Certifications → Skills → Contact  
+   Sticking to that order makes the site intuitive.
+
+2. **Design & Accessibility**  
+   - Single-column layout on mobile, two-column on desktop  
+   - High contrast (dark text on white) for readability  
+   - Alt text on all images for screen-readers
+
+3. **Interactive Elements**  
+   Rather than static lists, I chose interactive modals (for certificates) to keep the main pages focused and uncluttered.
+
+---
+
+## My Unique Content to Showcase
+
+- **MBA (2024–2025)** at University Canada West—ongoing  
+- **11 years** bridging Accounting (financial reporting, auditing) and Construction Supervision (rural road projects)  
+- **Certifications** in Generative AI (Microsoft × LinkedIn) & Digital Marketing (DMI × AMA)  
+- **Core strengths**: budgeting, team leadership, data-driven decision making
+
+---
+
+## Technology & Workflow
+
+- **Quarto** for Markdown → HTML and multi-page site  
+- **Bootstrap “cosmo” theme** with light custom CSS  
+- **Git + GitHub Pages** for version control and deployment  
+- **ChatGPT-4o** for initial brainstorming (raw output in LLM Draft page)  
+
+This plan ensured each assignment requirement maps to a clear page or section, and that I could track my process end-to-end.

@@ -1,0 +1,24 @@
+---
+title: "Certificates"
+format:
+  html: default
+---
+
+# Professional Certificates  
+
+Below are my certificates in full resolution for quick verification.
+
+---
+
+### Career Essentials in Generative AI  
+*Issued by Microsoft & LinkedIn Learning, February 2025*
+
+![](images/cert-generative-ai.png){width="850" alt="Career Essentials in Generative AI certificate"}
+
+---
+
+### Certified Digital Marketing Associate  
+*Issued by the Digital Marketing Institute & AMA, March 2025*
+
+![](images/cert-dmi.png){width="850" alt="Certified Digital Marketing Associate certificate"}
+

@@ -1,0 +1,15 @@
+---
+title: "Skills — Detailed Matrix"
+format:
+  html: default
+---
+
+# Skills Matrix  
+
+| Category | Tools / Methods | Proficiency | Evidence |
+|----------|-----------------|------------|----------|
+| Accounting & Finance | QuickBooks, Tally, Excel | **Expert** | 5 yrs Accountant |
+| Project Management | Gantt, procurement | **Advanced** | 6 yrs Supervisor |
+| Generative AI | Prompt design, ethics | **Intermediate** | Microsoft × LinkedIn cert |
+| Digital Marketing | SEO basics, Google Ads | **Intermediate** | DMI Associate cert |
+| Leadership | Team training, reporting | **Advanced** | Led 60-person crews |
