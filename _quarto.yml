@@ -16,12 +16,7 @@ website:
         href: contact.html
 
 
-    right:
-      - text: "Reflection (PDF)"
-        href: reflection.pdf
-      - text: "Appendix (PDF)"
-        href: appendix.pdf
-  page-navigation: false
+
 
 format:
   html:
