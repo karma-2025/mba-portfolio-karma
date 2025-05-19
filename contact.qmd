@@ -11,9 +11,4 @@ format:
 
 ---
 
-## Downloads
 
-| File                 | Description                        |
-|----------------------|------------------------------------|
-| [Reflection (PDF)](reflection.pdf){target="_blank"} | Process write-up                 |
-| [Appendix (PDF)](appendix.pdf){target="_blank"}   | Raw LLM output & commentary |
