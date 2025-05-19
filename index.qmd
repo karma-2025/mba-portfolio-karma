@@ -103,7 +103,6 @@ Financial Accounting • Budgeting & Forecasting • Project Management • Gene
 
 ---
 
-<span style="font-size:0.85rem">
+
 Content drafted with assistance from ChatGPT-4o; facts verified and final wording authored by Karma Galley.  
-See <a href="appendix.pdf" target="_blank">Appendix</a> for raw LLM output.
-</span>
+
